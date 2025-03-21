@@ -51,7 +51,6 @@ app/
 
 ## 📱 Screenshots
 
-<div style="display: flex; justify-content: space-between;">
    ![WhatsApp Image 2025-03-20 at 19 55 35_83da4b63](https://github.com/user-attachments/assets/7d3312b5-18d8-4bb4-8ca9-6aadbe797e34)
    ![WhatsApp Image 2025-03-20 at 19 55 34_eaadfd8d](https://github.com/user-attachments/assets/1c3724e1-4263-49b9-aebc-7eccf6f7906e)
    ![WhatsApp Image 2025-03-20 at 19 55 34_81f38ff9](https://github.com/user-attachments/assets/8bbb5d2a-5050-46dd-93c3-3aadcc4c4476)
@@ -60,7 +59,6 @@ app/
    ![WhatsApp Image 2025-03-20 at 19 55 33_0f97496c](https://github.com/user-attachments/assets/782beb89-f42f-436e-9b3a-db7f779260c8)
    ![WhatsApp Image 2025-03-20 at 19 55 33_2d5cc4b9](https://github.com/user-attachments/assets/6b5f67ea-1072-4817-8acf-79055943306e)
    ![WhatsApp Image 2025-03-20 at 19 55 35_049bb9b8](https://github.com/user-attachments/assets/bae306a8-c858-412e-b996-21a19be17b8c)
-</div>
 
 ## 🤝 Contributing
 
