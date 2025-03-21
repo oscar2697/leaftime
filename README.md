@@ -1,50 +1,69 @@
-# Welcome to your Expo app 👋
+# Leaftime App 📱
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern social networking application built with React Native and TypeScript, offering a seamless mobile experience for connecting with friends and sharing moments.
 
-## Get started
 
-1. Install dependencies
 
+## ✨ Features
+
+- 🔐 Secure Authentication System
+- 📱 Intuitive Tab Navigation
+- 📝 Create and Share Posts
+- 💬 Comment on Posts
+- 🔔 Real-time Notifications
+- 🖼️ Image Sharing Support
+- 👤 User Profiles
+
+## 🛠️ Technology Stack
+
+- React Native
+- TypeScript
+- Expo
+- File-based Routing
+- Real-time Notifications System
+
+## 🚀 Getting Started
+
+1. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Start the app
-
+2. Start the development server:
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+3. Run on your preferred platform:
+   - Press `a` for Android
+   - Press `i` for iOS
+   - Press `w` for web
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📁 Project Structure
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```
+app/
+├── (auth)/        # Authentication screens
+├── (tabs)/        # Main app navigation tabs
+├── _layout.tsx    # Main app layout
+└── styles/        # Styling files
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📱 Screenshots
 
-## Learn more
+<div style="display: flex; justify-content: space-between;">
+    <img src="./assets/images/login.png" width="200" alt="Login Screen">
+    <img src="./assets/images/feed.png" width="200" alt="Feed Screen">
+    <img src="./assets/images/profile.png" width="200" alt="Profile Screen">
+</div>
 
-To learn more about developing your project with Expo, look at the following resources:
+## 🤝 Contributing
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Feel free to contribute to this project by submitting issues and pull requests.
 
-## Join the community
+## 📄 License
 
-Join our community of developers creating universal apps.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+Built with ❤️ using [Expo](https://expo.dev)
